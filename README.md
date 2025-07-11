@@ -112,4 +112,5 @@ template.py
     # - To specify an audience:
     #   Add audience information in the "Important" section.
     #   Example: "5. The quote should be suitable for a professional audience."
-  
+
+  P2C self service portal: https://youtu.be/dxiRs0VYRwQ
