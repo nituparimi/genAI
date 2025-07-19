@@ -114,5 +114,7 @@ template.py
     #   Example: "5. The quote should be suitable for a professional audience."
 
   P2C self service portal: https://youtu.be/dxiRs0VYRwQ
+  p2c: https://excalidraw.com/#json=Otvz3TfI_191OiiZf51pR,fzWswIP69p0BvRxTnkB2hw
+  
+ <img width="1325" height="807" alt="p2c" src="https://github.com/user-attachments/assets/33099d65-b5af-4c93-9a1b-5c779e1375e4" />
 
- 
