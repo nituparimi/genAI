@@ -75,6 +75,11 @@ main.js
             });
 
             ---
+lambda_test_event.json
+     {
+  "body": "{\"name\":\"John Doe\",\"email\":\"your.email@example.com\",\"message\":\"This is a test message.\"}"
+}
+	    ---
 template.py
   def generate_quote_prompt():
     """
