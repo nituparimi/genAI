@@ -1,4 +1,4 @@
-This genAI folder contains threee apps built uisng Bedrock: i/ Blog generation, ii/ Quote generation, iii/ P2C portal
+This genAI folder contains three apps built uisng Bedrock: i/ Blog generation, ii/ Quote generation, iii/ P2C portal
 
 This architecture enables dynamic functionality for static websites without traditional server management, handling form processing, AI integration, and email communication seamlessly in the cloud. The serverless contact form solution follows these steps:
 
